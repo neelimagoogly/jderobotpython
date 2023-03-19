@@ -17,4 +17,9 @@ If you're using a virtual environment, make sure to activate it before running t
 
 Next pull this git repo and run the application.
 
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/97789856/226162675-f5a1e13b-cdca-4234-96ab-da68c1ffeafd.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/97789856/226162678-e160c06a-1bdd-4ead-86ae-2bd05f7ae657.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/97789856/226162687-2e7032ff-7b96-41df-b2e5-2d1c54fb3cae.gif)
+
+
 
